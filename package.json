@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://robertvenanzi.github.io/contact-manager-redux/home",
+  "homepage": "https://robertvenanzi.github.io/contact-manager-redux/",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
