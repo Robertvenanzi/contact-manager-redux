@@ -24,7 +24,7 @@ class App extends Component {
               <Switch>
                 <Route exact path="/contact-manager-redux/" component={Contacts} />
                 <Route exact path="/contact/add" component={AddContact} />
-                <Route exact path="/contact/edit/:id" component={EditContact} />
+                <Route exact path="/contact-manager-redux/contact/edit/:id" component={EditContact} />
                 <Route exact path="/about" component={About} />
                 <Route component={NotFound} />
               </Switch>
