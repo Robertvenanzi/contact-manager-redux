@@ -68,7 +68,7 @@ class EditContact extends Component {
       errors: {}
     });
 
-    this.props.history.push('/');
+    this.props.history.push('/contact-manager-redux/');
   };
 
   onChange = e => this.setState({ [e.target.name]: e.target.value });
